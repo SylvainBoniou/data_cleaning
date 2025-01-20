@@ -12,10 +12,10 @@
 ![image](https://github.com/user-attachments/assets/4c18d3d4-542b-4e20-bfd0-3c832f7d5415)
 
 3. Analyse du contenu des colonnes :  
-      * Nombre de valurs NULL
-      * Pour les colonnes de types numérique, affichage des valeurs MIN/MAX
-      * Pour les colonnes de types Date, affichage des valeurs MIN/MAX et vérification du formats
-      * Pour les colonnes contenant à plus de 50/ (seuil paramétrable) les vlaeurs Oui/Non, alors affichage de la distribution des valeurs
-      * Si les valurs d'une colonne sont NULL à 20 (seuil paramétrable), alors affichage du pourcentage de valeurs NULL
+      * Nombre de valeurs NULL
+      * Pour les colonnes de type numérique, affichage des valeurs MIN/MAX
+      * Pour les colonnes de type Date, affichage des valeurs MIN/MAX et vérification du format
+      * Pour les colonnes contenant à plus de 50% (seuil paramétrable) les valeurs Oui/Non, alors affichage de la distribution des valeurs
+      * Si les valeurs d'une colonne sont NULL à 20% (seuil paramétrable), alors affichage du pourcentage de valeurs NULL
       
 ![image](https://github.com/user-attachments/assets/954df4f2-9e82-4bb2-a8c2-0c9b212352f3)
